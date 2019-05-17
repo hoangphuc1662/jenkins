@@ -2,3 +2,4 @@
 testvm
 build
 vm
+build
